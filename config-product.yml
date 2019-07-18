@@ -19,7 +19,7 @@ logging:
 spring:
   profiles: dev # 开发环境
   application:
-    name: product-config			# ******服务名*******
+    name: product-config11			# ******服务名*******
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.cj.jdbc.Driver
