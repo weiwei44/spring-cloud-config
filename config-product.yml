@@ -45,7 +45,7 @@ eureka:
  
 
 emp:
-  name: zhangsan
+  name: weige
 ---
 server:
   port: 8001
